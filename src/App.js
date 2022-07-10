@@ -1,4 +1,5 @@
 import SignIn from "./components/SignIn/SignIn";
+import SignUp from "./components/SignUp/SignUp";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
                 Or
             </p>
         </div>
-
+        <SignUp/>
     </div>
   );
 }

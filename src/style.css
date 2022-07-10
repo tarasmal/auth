@@ -64,3 +64,54 @@ h2{
     opacity: 0.5;
     margin: 19px;
 }
+input{
+    background: white;
+    border: 2px solid #C8D1E6;
+    border-radius: 5px;
+}
+.credentials{
+    width: 250.11px;
+    height: 59.62px;
+    margin-bottom: 21.5px;
+}
+.credentials:last-child{
+    margin-left: 14px;
+}
+
+.input-data{
+    width: 512px;
+    height: 59.62px;
+    margin-bottom: 21.5px;
+}
+.create-account-btn{
+    width: 512.3px;
+    height: 59.62px;
+    background: #7E889D;
+    border-radius: 5px;
+}
+.create-account-text{
+    width: 253.33px;
+    height: 22.48px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 18.57px;
+}
+.agreements{
+    width: 385.63px;
+    height: 35.19px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    margin-top: 39px;
+    color: #1E2C4B;
+}
+
+
+
