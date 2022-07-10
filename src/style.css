@@ -1,0 +1,66 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+.main{
+    margin-top: 10.3%;
+}
+
+h1{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    color: #1B1C40;
+    margin-bottom: 73px;
+}
+
+h2{
+    max-width: 536px;
+    max-height: 49px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #1B1C40;
+    margin-bottom: 29px;
+}
+
+.sign-in{
+    width: 512.3px;
+    height: 59.62px;
+    background: #AD4949;
+    border-radius: 5px;
+    border-style: hidden;
+
+}
+.sign-in-text{
+    margin: 18.57px 139.33px 18.57px 139.33px;
+    width: 235.04px;
+    height: 22.48px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.middleware{
+    width: 30.96px;
+    height: 22.48px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+    opacity: 0.5;
+    margin: 19px;
+}
